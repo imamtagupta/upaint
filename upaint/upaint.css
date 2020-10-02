@@ -1,0 +1,265 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+.primary-button {
+    text-align: center;
+    border-radius: 3px;
+    color: white;
+    background-color: #2072C5;
+    height: 50px;
+    border: #2072C5;
+    
+}
+
+.green-button {
+    text-align: center;
+    border-radius: 3px;
+    color: black;
+    background-color: #55E17B;
+    height: 50px;
+    border: #55E17B;
+    
+}
+
+.blue-button {
+    text-align: center;
+    border-radius: 3px;
+    color: white;
+    background-color: #5567E1;
+    height: 50px;
+    border: #5567E1;
+    
+}
+
+.orange-button {
+    text-align: center;
+    border-radius: 3px;
+    color:black;
+    background-color: #FF9C4C;
+    height: 50px;
+    border: #FF9C4C;
+    
+}
+.red-button {
+    text-align: center;
+    border-radius: 3px;
+    color:white;
+    background-color: #FF6262;
+    height: 50px;
+    border: #FF6262;
+    
+}
+.gray-button {
+    text-align: center;
+    border-radius: 3px;
+    color:black;
+    background-color: #ECDEDE;
+    height: 50px;
+    border: #ECDEDE;
+    
+}
+.dark-button {
+    text-align: center;
+    border-radius: 3px;
+    color:white;
+    background-color: #3D3D3D;
+    height: 50px;
+    border: #3D3D3D;
+    
+}
+.light-navbar {
+
+    border-radius: 3px;
+    color:black;
+   width: 100%;
+    height: 5vh;
+    border: #D5C2C2;
+    
+}
+.navbar-title {
+    color: black;
+    float: left;
+}
+.item-navbar {
+    color: black;
+    float: left;
+    padding-left: 1%;
+}
+.dark-navbar {
+
+    border-radius: 3px;
+    color:white;
+    background: black;
+    width: 100%;
+    height: 7vh;
+    border: #D5C2C2;
+    
+}
+.navbar-title-dark {
+    color:white;
+    float: left;
+}
+.item-navbar-dark {
+    color: white;
+    float: left;
+    padding-left: 1%;
+}
+.table-light {
+    background: white;
+    width: 40%;
+    border: black;
+}
+.head-table-light {
+    background: #EBE2E2;
+    height: 5vh;
+}
+.body-table-light {
+    background: #F8F3F3;
+    height: 20px;
+}
+.table-dark {
+    background: black;
+    width: 40%;
+    border: black;
+    color: white;
+}
+.head-table-dark {
+    background: #2A2727;
+    color: white;
+    height: 5vh;
+}
+.body-table-dark {
+    background: #0E0D0D;
+    color: white;
+    height: 20px;
+}
+.alert-orange {
+    background: #FAA17E;
+    border-radius: 5px;
+    padding-left: 2%;
+}
+.alert-red {
+    background: #FA7E7E;
+    border-radius: 5px;
+    padding-left: 2%;
+}
+.alert-green {
+    background: #8DFA7E;
+    border-radius: 5px;
+    padding-left: 2%;
+}
+.alert-dark {
+    background: #565656;
+    border-radius: 5px;
+    padding-left: 2%;
+    color: white;
+}
+.alert-gray {
+    background: #CDCDCD;
+    border-radius: 5px;
+    padding-left: 2%;
+    color:black;
+}
+.container-light {
+    background: #F1EDED;
+    border-radius: 5px;
+    padding-left: 2%;
+    color:black;
+    
+}
+.container-dark {
+    background: #242121;
+    border-radius: 5px;
+    padding-left: 2%;
+    color:white;
+ 
+}
+.card-title-header-light {
+    background: #F1EDED;
+    border-radius: 5px;
+    padding-left: 2%;
+    color:black;
+    height: 5vh;
+     width: 30%;
+}
+.card-body-light {
+    background: #DEDEDE;
+    border-radius: 5px;
+    padding-left: 2%;
+    color:black;
+  
+     width: 30%;
+}
+.card-title-header-orange {
+    background: #F7D5BD;
+    border-radius: 5px;
+    padding-left: 2%;
+    color:black;
+    height: 5vh;
+     width: 30%;
+}
+.card-body-orange {
+    background: #F79652;
+    border-radius: 5px;
+    padding-left: 2%;
+    color:black;
+  
+     width: 30%;
+}
+.card-title-header-red {
+    background: #FD8E80;
+    border-radius: 5px;
+    padding-left: 2%;
+    color:black;
+    height: 5vh;
+     width: 30%;
+}
+.card-body-red {
+    background: #F76552;
+    border-radius: 5px;
+    padding-left: 2%;
+    color:black;
+  
+     width: 30%;
+}
+.card-title-header-green {
+    background: #80FD9E;
+    border-radius: 5px;
+    padding-left: 2%;
+    color:black;
+    height: 5vh;
+     width: 30%;
+}
+.card-body-green {
+    background: #A1FD80;
+    border-radius: 5px;
+    padding-left: 2%;
+    color:black;
+  
+     width: 30%;
+}
+.card-title-header-dark {
+    background: #404240;
+    border-radius: 5px;
+    padding-left: 2%;
+    color:white;
+    height: 5vh;
+     width: 30%;
+}
+.card-body-dark {
+    background: #272927;
+    border-radius: 5px;
+    padding-left: 2%;
+    color:white;
+  
+     width: 30%;
+}
+.frame-paint {
+    background: #272927;
+    border-radius: 5px;
+    padding-left: 2%;
+    padding-right: 2%;
+    color:white;
+  
+     width: 30%;
+}
